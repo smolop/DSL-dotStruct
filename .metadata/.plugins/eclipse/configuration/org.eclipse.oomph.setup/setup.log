@@ -1,0 +1,12 @@
+[2018-05-19 13:33:12] Executing startup tasks
+[2018-05-19 13:33:13] Java(TM) SE Runtime Environment 1.8.0_171-b11
+[2018-05-19 13:33:13] Product self.product.version
+[2018-05-19 13:33:13] Workspace C:\Users\smolina\Google Drive\Workspace\GII3\CS\DSL\runtime-EclipseXtext
+[2018-05-19 13:33:13] Bundle org.eclipse.oomph.setup 1.9.0.v20180421-1024, build=3502, branch=a3ffd1307564e51e3c406c3e2744bc282019b050
+[2018-05-19 13:33:13] Bundle org.eclipse.oomph.setup.core 1.9.0.v20180425-0647, build=3502, branch=a3ffd1307564e51e3c406c3e2744bc282019b050
+[2018-05-19 13:33:13] Bundle org.eclipse.oomph.setup.p2 1.9.0.v20180419-0636, build=3502, branch=a3ffd1307564e51e3c406c3e2744bc282019b050
+[2018-05-19 13:33:13] Performing Preference /instance/org.xtext.example.entities.Entities/org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.comment.bgColor = 128,128,128
+[2018-05-19 13:33:13] Performing Preference /instance/org.xtext.example.entities.Entities/org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.comment.color = 255,128,0
+[2018-05-19 13:33:13] Performing Preference /instance/org.xtext.example.entities.Entities/org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.comment.style = 2
+[2018-05-19 13:33:13] Performing Preference /instance/org.xtext.example.entities.Entities/org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.string.color = 0,128,192
+[2018-05-19 13:33:13] 

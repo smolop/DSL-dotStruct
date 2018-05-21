@@ -1,0 +1,13 @@
+grammar org.xtext.example.structure.Structure with org.eclipse.xtext.common.Terminals
+
+generate structure "http://www.xtext.org/example/structure/Structure"
+
+Raiz:
+	{Raiz} name=ID.''
+	carpetas+=Carpeta*;
+	
+Carpeta:
+	{Carpeta} name=ID'/'
+	('{'childs += Carpeta*'}')?
+	;
+	

@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.comment.bgColor=128,128,128
+org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.comment.color=255,128,0
+org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.comment.style=2
+org.xtext.example.entities.Entities.syntaxColorer.tokenStyles.string.color=0,128,192
