@@ -1,0 +1,33 @@
+Raiz ISO_25000 : 
+			"Proyecto XX"/
+				["Memoria"/,],
+				( Portada Indice_general Presentacion Busqueda );				
+			"Gestión de la elaboración del proyecto"/
+			
+			"Elaboración proyecto"/
+			
+			"RUP - Plantillas"/
+					
+;
+
+
+Contenido: Portad.txt
+text:
+"Esta es la Portada"
+_END
+
+Contenido: Indice_general.txt
+text: 
+"Este es el Indice general"
+_END
+
+Contenido: Presentacion.txt
+text:
+"Esta es la presentación"
+_END
+
+Contenido: Busqueda.txt
+text:
+"Esta es la busqueda"
+_END
+

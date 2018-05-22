@@ -1,0 +1,36 @@
+Raiz R:"C1"/[
+	"C1.2"/
+		["C1.2.1"/, "C.1.2.2"/,],
+
+	"C1.3"/
+		["C1.3.1"/, "C1.3.2"/,],
+	]
+	 ;
+	
+Contenido: Ref1.txt
+text: 
+"README.
+\nEsta es una prueba para el contenido de las carpetas
+y el salto de linea."
+_END
+
+Contenido: Ref2.xml
+text:
+"Prueba
+Esta es otra prueba,
+para comprobar el funcionamiento del programa."
+_END
+
+Contenido: README.md
+text:
+"README:
+Soy un fichero, autogenerado
+en el marco de desarrollo sobre la asignaruta CS: Calidad de Software
+Author: Sebastián Molina
+Github: smolop."
+_END
+
+Contenido: SinExtension
+text:
+"Soy un fichero sin extension."
+_END

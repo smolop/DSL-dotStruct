@@ -1,0 +1,28 @@
+Raiz Root :
+		"Opt"/
+		"Users"/["Admin"/, "User1"/, "User2"/]
+		"System"/[
+					"Bins"/
+					"Bin"/(README)
+					]
+		"Bin"/(README Ref1)
+		;
+		
+Contenido: README.md
+text:
+"README:
+Soy un fichero, autogenerado
+en el marco de desarrollo sobre la asignaruta CS: Calidad de Software
+Author: Sebastián Molina
+Github: smolop."
+_END
+
+Contenido: Ref1.xml
+text: 
+"XML.
+Soy un fichero, autogenerado
+en el marco de desarrollo sobre la asignaruta CS: Calidad de Software
+Author: Sebastián Molina
+Github: smolop."
+_END
+

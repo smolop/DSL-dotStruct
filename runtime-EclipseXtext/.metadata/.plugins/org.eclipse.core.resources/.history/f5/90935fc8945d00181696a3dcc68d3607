@@ -1,0 +1,110 @@
+Raiz ISO_25000 : 
+			"ISO 25000"/ ["Proyecto XX"/
+				[
+				"Memoria"/
+					[
+					"Normas y referencias"/
+					"Alternativas y viabilidad"/
+					"Solución y propuesta"/
+					"Previsiones para la construcción o desarrollo"/	
+					],
+					( Reumen Introduccion Objeto Antecedentes Situacion_Actual
+					Definiciones_y_abreviaturas Requisitos_iniciales
+					Alcance Hipotesis_y_restricciones
+					);	
+				],
+				( Portada Indice_general Presentacion Busqueda );	
+			
+			"ANEXOS: Detalles técnicos"/
+						
+			"Gestión de la elaboración del proyecto"/
+				[ "Gestión del proyecto"/, ];
+			
+			"Elaboración proyecto"/
+				[ "Control del proyecto"/, "Memoria"/, "Presupuesto"/, ];
+				
+			"RUP - Plantillas"/
+			
+			( README ) 
+			]		
+;
+
+Contenido: README.md
+text:
+"README:
+Soy un fichero, autogenerado
+en el marco de desarrollo sobre la asignaruta CS: Calidad de Software
+Author: Sebastián Molina
+Github: smolop."
+_END
+
+
+Contenido: Portada.txt
+text:
+"Esta es la Portada"
+_END
+
+Contenido: Indice_general.txt
+text: 
+"Este es el Indice general"
+_END
+
+Contenido: Presentacion.txt
+text:
+"Esta es la presentación"
+_END
+
+Contenido: Busqueda.txt
+text:
+"Esta es la busqueda"
+_END
+
+//-----------------------Proyecto XX/Memoria------
+
+Contenido: Reumen
+text:
+"Este es el resumen"
+_END
+
+Contenido: Introduccion
+text:
+"Esta es la introducción"
+_END
+
+Contenido: Objeto
+text:
+"Este es el objeto"
+_END
+
+Contenido: Antecedentes
+text:
+"Estos son los antecendentes"
+_END
+
+Contenido: Situacion_Actual
+text:
+"Esta es la situación actual"
+_END
+
+Contenido: Definiciones_y_abreviaturas
+text:
+"Estas son las definiciones y las abreviaturas"
+_END
+
+Contenido: Requisitos_iniciales
+text:
+"Estos son los requisitos inivciales"
+_END
+
+Contenido: Alcance
+text:
+"Este es el alcance"
+_END
+
+Contenido: Hipotesis_y_restricciones
+text:
+"Estas son las hipótesis y restricciones"
+_END
+
+
+
